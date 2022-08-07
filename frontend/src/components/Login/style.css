@@ -1,0 +1,44 @@
+.login{
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10%;
+  
+}
+
+#email{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em;
+}
+
+
+#password{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em;
+}
+
+
+#login{
+    width: 8em;
+    height: 2em;
+    border-radius: 2.5em;
+    margin-top: 2em;
+}
+
+
+.messageLogin{
+
+    margin-top: 2em;
+    color:rgb(194, 27, 197);
+}
+
+
+
+
+.regg{
+    color: rgb(223, 14, 150);
+    margin-top: 1em;
+}

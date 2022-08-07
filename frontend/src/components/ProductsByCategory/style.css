@@ -1,0 +1,42 @@
+.addedProduct{
+    width: 100%;
+    height: 50vh;
+    margin-top: 5%;
+}
+
+
+.update and delete{
+    display: flex;
+    flex-direction: column;
+
+}
+
+#newTitle{
+    width: 5em;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+
+#newPrice{
+    width: 2.5em;
+    background-color: rgba(240, 248, 255, 0);
+
+}
+
+
+.del{
+    border: rgba(240, 248, 255, 0);
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(239, 8, 8);
+}
+
+
+.dellete{
+  background-color: rgba(245, 245, 220, 0);
+}
+
+
+.update{
+    background-color: rgba(245, 245, 220, 0);
+
+}

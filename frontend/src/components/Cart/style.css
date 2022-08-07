@@ -1,0 +1,41 @@
+.addedProduct{
+    width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+/* background-color: rgb(219, 195, 231); */
+  
+}
+
+.cart1{
+    width: 2em;
+    height: 1.5em;
+    color: rgb(245, 245, 245);
+}
+
+.homme{
+    width: 2em;
+    height: 2em;
+    font-size: larger;
+    color: rgb(245, 245, 245);  
+    font-family:cursive ;
+}
+
+.adds{
+    width: 2em;
+    height: 2em;
+    font-size: larger;
+    color: rgb(245, 245, 245); 
+    font-family:cursive ;    
+}
+
+
+.logout
+{ width: 2em;
+    height: 2em;
+    font-size: larger;
+    color: rgb(245, 245, 245); 
+    font-family:cursive ;
+
+}

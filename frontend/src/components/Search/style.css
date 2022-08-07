@@ -1,0 +1,19 @@
+.search {
+    background-color: rgb(192, 79, 186);
+    display: flex;
+    align-self: start;
+    margin-left: 2.5em;
+
+}
+
+#search1 {
+    border-radius: 2.5em;
+    height: 2em;
+    width: 15em;
+}
+
+.searchButton {
+    margin-left: .5em;
+    border-radius: 2em;
+    width: 3.5em;
+}

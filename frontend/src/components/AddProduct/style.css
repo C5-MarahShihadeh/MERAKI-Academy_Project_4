@@ -1,0 +1,56 @@
+.addsProduct{
+padding-top: 5%; 
+
+background-image: url("https://thumbs.dreamstime.com/b/banner-make-up-essentials-set-professional-makeup-brushes-cosmetics-pink-background-banner-make-up-212823834.jpg");
+}
+
+.title{
+    width: 15em;
+    height: 2.5em;
+    margin-bottom: 1.5em
+}
+
+
+.priceInput{
+    width: 15em;
+    height: 2.5em;
+    margin-bottom: 1.5em
+}
+
+.imgInput{
+    width: 15em;
+    height: 2.5em;
+    margin-bottom: 2em
+
+}
+
+#chooseCategory{
+margin-left: 39em;
+  display: flex;
+  align-items: baseline;
+  justify-content:last baseline;
+ margin-bottom: .25em;
+}
+
+#label{
+    margin-right: 7em;
+    margin-bottom: 2em;
+}
+
+
+.addProduct{
+    margin-top: 3em;
+    height: 4em;
+    width: 12em;
+}
+
+#title{
+    margin-right: 1em;
+}
+
+#price{
+    margin-right: 1em;
+}
+#img{
+    margin-right: 1em;
+}

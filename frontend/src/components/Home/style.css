@@ -1,0 +1,42 @@
+.addToCart{
+background-color: rgba(246, 243, 249, 0);
+border-color: rgba(240, 248, 255, 0);
+
+}
+
+.cart{
+    width: 2em;
+    height: 2em;
+    color: rgb(199, 103, 141);
+}
+
+
+.addingComment{
+    color: rgb(245, 244, 246);
+    border-color:rgba(137, 43, 226, 0);
+    background-color:rgba(137, 43, 226, 0.521) ;
+   margin-right: .75em;
+}
+
+.addedTitle{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.addedPrice{
+    color: rgba(0, 0, 0, 0.545);
+}
+
+.next{
+    margin-top: 2.5%;
+    margin-bottom: 1.25%;
+    margin-left: .75em;
+    border-color: rgba(240, 248, 255, 0);
+    background-color: rgba(240, 248, 255, 0);
+    width: 10px;
+}
+
+.previous{
+    border-color: rgba(240, 248, 255, 0);
+    background-color: rgba(240, 248, 255, 0);
+    color: blue;
+
+}

@@ -1,0 +1,56 @@
+.regist{
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4%;   
+}
+
+
+
+.firstName{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em;  
+}
+
+.lastName{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em; 
+}
+
+.country{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em; 
+}
+
+.email{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em; 
+}
+
+.password{
+    width: 18em;
+    height: 2em;
+    border-radius: 2.5em; 
+}
+
+
+#regist{
+    width: 8em;
+    height: 2em;
+    border-radius: 2.5em;
+    margin-top: 2em; 
+}
+
+.Succesfull{
+    color: rgb(14, 168, 14);
+}
+
+
+.error{
+    color: rgb(219, 19, 19);
+}

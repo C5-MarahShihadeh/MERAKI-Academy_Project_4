@@ -1,0 +1,62 @@
+
+.App{
+    text-align: center; 
+}
+
+.naav{
+
+   background-color: rgb(192, 79, 186);
+   color: rgb(255, 255, 255);
+   font-size: larger;
+   padding-bottom: .25em;
+}
+.titleOfWebsite{
+    color: rgb(0, 2, 4);
+display: flex;
+margin-left: 2.5%;
+align-items: center;
+padding-top: 1em;
+font-family:cursive ;
+
+}
+
+
+
+a{
+    margin: 15px;
+    color: rgb(237, 239, 241);
+    text-decoration: none;
+    font-size: large;
+}
+
+
+.addedProduct{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+border-bottom:.1em solid rgba(202, 110, 165, 0.355) ; 
+    border-right:.1em solid rgba(255, 192, 203, 0.162) ; 
+
+
+}
+
+
+.addedProduct img{
+    width: 150px;
+    height: 150px;
+}
+
+.productsParent{
+    display: grid;
+    grid-template-columns: 25% 25% 25% ;
+    align-items: center;
+    justify-content: center;
+
+   
+   
+}
+
+.bigImage{
+    width: 85%;
+}

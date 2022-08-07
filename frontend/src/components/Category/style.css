@@ -1,0 +1,15 @@
+.parentCategory{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+
